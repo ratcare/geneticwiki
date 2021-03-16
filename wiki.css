@@ -24,3 +24,8 @@
 .sidenav a:hover {
   color: #8867f5;
 }
+
+/* font */
+.p {
+  font-family: Arial, Helvetica, sans-serif;
+}
