@@ -1,4 +1,4 @@
-/* sidebar */
+/* sidebar one */
 .sidenav {
   height: 100%; /* fixed full height */
   width: 200px;
@@ -11,7 +11,7 @@
   padding-top: 20px;
 }
 
-/* nav menu links */
+/* nav menu links one */
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
@@ -21,7 +21,41 @@
   display: block;
 }
 
-/* link hover */
+/* link hover one */
 .sidenav a:hover {
   color: #8867f5;
+}
+
+/* sidebar two
+   this one is for the second
+   part of the wiki, where all
+   of the genetic info goes */
+
+
+/* sidebar two */
+.sidenavtwo {
+  height: 100%; /* fixed full height */
+  width: 200px;
+  position: fixed; /* fixed + no scroll */
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: #02093d; 
+  overflow-x: hidden; /* disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* nav menu links one */
+.sidenavtwo a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 25px;
+  color: #f2ba7e;
+  display: block;
+}
+
+/* link hover one */
+.sidenav a:hover {
+  color: #f28a7e;
 }
