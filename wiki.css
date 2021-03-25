@@ -6,7 +6,7 @@
   z-index: 1; 
   top: 0; 
   left: 0;
-  background-color: #02093d; 
+  background-color: #f0f2ff; 
   overflow-x: hidden; /* disable horizontal scroll */
   padding-top: 20px;
 }
@@ -17,7 +17,7 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 25px;
-  color: #f0f2ff;
+  color: #ffffff;
   display: block;
 }
 
