@@ -45,7 +45,7 @@
   padding-top: 20px;
 }
 
-/* nav menu links one */
+/* nav menu links two */
 .sidenavtwo a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
@@ -55,7 +55,7 @@
   display: block;
 }
 
-/* link hover one */
-.sidenav a:hover {
+/* link hover two */
+.sidenavtwo a:hover {
   color: #f28a7e;
 }
